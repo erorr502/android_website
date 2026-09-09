@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite"
+  "dev": "vite",
+  "build": "vite",
+  "preview": "vite preview"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
